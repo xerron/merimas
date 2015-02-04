@@ -17,6 +17,9 @@ Mostrar la ayuda:
 
 ![seleccion_007](https://cloud.githubusercontent.com/assets/1724033/6047597/b4799d92-ac78-11e4-9422-f6fd020a502d.png)
 
+Configuración manual en el archivo **merimas.properties**
+
+
 ## Notas para noveles
 
 La estructura de la aplicación debe ser la siguiente:
