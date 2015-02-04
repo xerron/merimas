@@ -25,6 +25,8 @@ La estructura de la aplicación debe ser la siguiente:
      -merimas.properties
      -merimas.jar (ejecutable creado)
 
+Descargar binario [aquí](https://github.com/xerron/merimas/releases/latest).
+
 ## TODO
 
 - [ ] Interfaz para configurar (merimas.properties)
