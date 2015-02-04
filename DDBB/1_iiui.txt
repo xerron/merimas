@@ -1,0 +1,2 @@
+distribuir	distribuir	O	distribuir	3	0	distribuir
+instituir	instituir	O	instituir	3	1	instituir

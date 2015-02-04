@@ -1,0 +1,3 @@
+aparroquio	aparroquiar	VIP1	oquio	4	1	aparroquio
+desaparroquio	desaparroquiar	VIP1	oquio	5	0	desaparroquio
+soliloquio	soliloquiar	VIP1	oquio	4	0	soliloquio

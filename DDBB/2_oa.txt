@@ -1,0 +1,4 @@
+arrota	arromper	VPFS	ota	3	1	arrota
+arrotas	arromper	VFP	otas	3	1	arrotas
+rota	romper	VPFS	ota	2	0	rota
+rotas	romper	VFP	otas	2	0	rotas

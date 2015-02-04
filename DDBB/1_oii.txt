@@ -1,0 +1,14 @@
+ajilimójili	ajilimójili	O	ojili	6	1	ajilimojili
+ajilimójilis	ajilimójili	P	ojilis	6	1	ajilimojilis
+anagnórisis	anagnórisis	O	orisis	5	1	anagnorisis
+apófisis	apófisis	O	ofisis	4	1	apofisis
+autólisis	autólisis	O	olisis	4	1	autolisis
+bóbilis	bóbilis	O	obilis	3	0	bobilis
+electrólisis	electrólisis	O	olisis	5	1	electrolisis
+fibrinólisis	fibrinólisis	O	olisis	5	0	fibrinolisis
+fotólisis	fotólisis	O	olisis	4	0	fotolisis
+glicólisis	glicólisis	O	olisis	4	0	glicolisis
+glucólisis	glucólisis	O	olisis	4	0	glucolisis
+hemólisis	hemólisis	O	olisis	4	1	hemolisis
+hidrólisis	hidrólisis	O	olisis	4	0	hidrolisis
+hipófisis	hipófisis	O	ofisis	4	0	hipofisis

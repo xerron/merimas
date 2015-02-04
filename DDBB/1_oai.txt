@@ -1,0 +1,5 @@
+bonsai	bonsai	O	onsai	2	0	bonsai
+bonsais	bonsai	P	onsais	2	0	bonsais
+hipóstasis	hipóstasis	O	ostasis	4	0	hipostasis
+homeóstasis	homeóstasis	O	ostasis	5	1	homeostasis
+prótasis	prótasis	O	otasis	3	0	protasis

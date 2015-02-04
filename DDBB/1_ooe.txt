@@ -1,0 +1,17 @@
+alóbroge	alóbroge	O	obroge	4	1	alobroge
+alóbroges	alóbroge	P	obroges	4	1	alobroges
+apócope	apócope	O	ocope	4	1	apocope
+apócopes	apócope	P	ocopes	4	1	apocopes
+apóstoles	apóstol	P	ostoles	4	1	apostoles
+apóstrofe	apóstrofe	O	ostrofe	4	1	apostrofe
+apóstrofes	apóstrofe	P	ostrofes	4	1	apostrofes
+brócoles	brócol	P	ocoles	3	0	brocoles
+coapóstoles	coapóstol	P	ostoles	5	0	coapostoles
+cóndores	cóndor	P	ondores	3	0	condores
+cónsone	cónsone	O	onsone	3	0	consone
+cónsones	cónsone	P	onsones	3	0	consones
+dólope	dólope	O	olope	3	0	dolope
+dólopes	dólope	P	olopes	3	0	dolopes
+monóstrofe	monóstrofe	O	ostrofe	4	0	monostrofe
+monóstrofes	monóstrofe	P	ostrofes	4	0	monostrofes
+sórores	sóror	P	orores	3	0	sorores

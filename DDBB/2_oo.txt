@@ -1,0 +1,4 @@
+arroto	arromper	VPMS	oto	3	1	arroto
+arrotos	arromper	VPMP	otos	3	1	arrotos
+roto	romper	VPMS	oto	2	0	roto
+rotos	romper	VPMP	otos	2	0	rotos

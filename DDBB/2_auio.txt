@@ -1,0 +1,5 @@
+afluios	afluir	VMPE	afluios	2	1	afluios
+aplaudios	aplaudir	VMPE	audios	3	1	aplaudios
+estatuios	estatuir	VMPE	atuios	3	1	estatuios
+exaudios	exaudir	VMPE	audios	3	1	exaudios
+jaquios	jaquir	VMPE	aquios	2	0	jaquios

@@ -1,0 +1,5 @@
+deixis	deixis	O	eixis	2	0	deixis
+déficit	déficit	O	eficit	3	0	deficit
+énclisis	énclisis	O	enclisis	3	1	enclisis
+éxplicit	éxplicit	O	explicit	3	1	explicit
+géminis	géminis	O	eminis	3	0	geminis

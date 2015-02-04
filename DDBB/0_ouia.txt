@@ -1,0 +1,9 @@
+aparroquias	aparroquiar	VIP2	oquias	4	1	aparroquias
+aparroquia	aparroquiar	VIP3	oquia	4	1	aparroquia
+aparroquian	aparroquiar	VIP6	oquian	4	1	aparroquian
+desaparroquias	desaparroquiar	VIP2	oquias	5	0	desaparroquias
+desaparroquia	desaparroquiar	VIP3	oquia	5	0	desaparroquia
+desaparroquian	desaparroquiar	VIP6	oquian	5	0	desaparroquian
+soliloquias	soliloquiar	VIP2	oquias	4	0	soliloquias
+soliloquia	soliloquiar	VIP3	oquia	4	0	soliloquia
+soliloquian	soliloquiar	VIP6	oquian	4	0	soliloquian

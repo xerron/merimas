@@ -1,0 +1,9 @@
+antiperístasis	antiperístasis	O	istasis	6	1	antiperistasis
+antífrasis	antífrasis	O	ifrasis	4	1	antifrasis
+endíadis	endíadis	O	iadis	4	1	endiadis
+epítasis	epítasis	O	itasis	4	1	epitasis
+ísatis	ísatis	O	isatis	3	1	isatis
+perífrasi	perífrasi	O	ifrasi	4	0	perifrasi
+perífrasis	perífrasi	P	ifrasis	4	0	perifrasis
+perífrasis	perífrasis	O	ifrasis	4	0	perifrasis
+perístasis	perístasis	O	istasis	4	0	peristasis

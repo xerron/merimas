@@ -1,0 +1,8 @@
+cháguares	cháguar	P	aguares	3	0	chaguares
+cháhuares	cháhuar	P	ahuares	3	0	chahuares
+náguatle	náguatle	O	aguatle	3	0	naguatle
+náguatles	náguatle	P	aguatles	3	0	naguatles
+náhuatles	náhuatl	P	ahuatles	3	0	nahuatles
+náhuatle	náhuatle	O	ahuatle	3	0	nahuatle
+náhuatles	náhuatle	P	ahuatles	3	0	nahuatles
+ñándubayes	ñándubay	P	andubayes	4	0	nandubayes

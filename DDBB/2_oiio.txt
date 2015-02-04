@@ -1,0 +1,2 @@
+cohibios	cohibir	VMPE	ohibios	2	0	cohibios
+prohibios	prohibir	VMPE	ohibios	2	0	prohibios

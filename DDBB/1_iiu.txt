@@ -1,0 +1,7 @@
+agibílibus	agibílibus	O	ilibus	5	1	agibilibus
+agílibus	agílibus	O	ilibus	4	1	agilibus
+espíritu	espíritu	O	iritu	4	1	espiritu
+espíritus	espíritu	P	iritus	4	1	espiritus
+mildiu	mildiu	O	ildiu	2	0	mildiu
+mildius	mildiu	P	ildius	2	0	mildius
+mínimum	mínimum	O	inimum	3	0	minimum

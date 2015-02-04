@@ -1,0 +1,5 @@
+armónium	armónium	O	onium	3	1	armonium
+auditórium	auditórium	O	orium	4	1	auditorium
+ómnibus	ómnibus	O	omnibus	3	1	omnibus
+pandemónium	pandemónium	O	onium	4	0	pandemonium
+pódium	pódium	O	odium	2	0	podium

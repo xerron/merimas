@@ -1,0 +1,16 @@
+césares	césar	P	esares	3	0	cesares
+ésbate	ésbate	O	esbate	3	1	esbate
+ésbates	ésbate	P	esbates	3	1	esbates
+modéjares	modéjar	P	ejares	4	0	modejares
+mudéjares	mudéjar	P	ejares	4	0	mudejares
+ménade	ménade	O	enade	3	0	menade
+ménades	ménade	P	enades	3	0	menades
+néctares	néctar	P	ectares	3	0	nectares
+oréade	oréade	O	eade	4	1	oreade
+oréades	oréade	P	eades	4	1	oreades
+pléyade	pléyade	O	eyade	3	0	pleyade
+pléyades	pléyade	P	eyades	3	0	pleyades
+péname	péname	O	ename	3	0	pename
+pénames	péname	P	enames	3	0	penames
+pésame	pésame	O	esame	3	0	pesame
+pésames	pésame	P	esames	3	0	pesames

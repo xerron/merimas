@@ -1,0 +1,7 @@
+clítoris	clítoris	O	itoris	3	0	clitoris
+metempsícosis	metempsícosis	O	icosis	6	0	metempsicosis
+tipoi	tipoi	O	ipoi	2	0	tipoi
+tipois	tipoi	P	ipois	2	0	tipois
+tortícolis	tortícolis	O	icolis	4	0	torticolis
+trípoli	trípoli	O	ipoli	3	0	tripoli
+trípolis	trípoli	P	ipolis	3	0	tripolis

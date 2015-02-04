@@ -1,0 +1,8 @@
+estúpidamente	estúpidamente	O	upidamente	6	1	estupidamente
+impúdicamente	impúdicamente	O	udicamente	6	1	impudicamente
+lúbricamente	lúbricamente	O	ubricamente	5	0	lubricamente
+públicamente	públicamente	O	ublicamente	5	0	publicamente
+rústicamente	rústicamente	O	usticamente	5	0	rusticamente
+súbitamente	súbitamente	O	ubitamente	5	0	subitamente
+últimamente	últimamente	O	ultimamente	5	1	ultimamente
+únicamente	únicamente	O	unicamente	5	1	unicamente

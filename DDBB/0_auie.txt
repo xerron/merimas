@@ -1,0 +1,9 @@
+braquie	braquiar	VSP1	aquie	2	0	braquie
+braquies	braquiar	VSP2	aquies	2	0	braquies
+braquien	braquiar	VSP6	aquien	2	0	braquien
+desahucie	desahuciar	VSP1	ahucie	3	0	desahucie
+desahucies	desahuciar	VSP2	ahucies	3	0	desahucies
+desahucien	desahuciar	VSP6	ahucien	3	0	desahucien
+fasquie	fasquiar	VSP1	asquie	2	0	fasquie
+fasquies	fasquiar	VSP2	asquies	2	0	fasquies
+fasquien	fasquiar	VSP6	asquien	2	0	fasquien

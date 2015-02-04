@@ -1,0 +1,4 @@
+erróneamente	erróneamente	O	oneamente	6	1	erroneamente
+prepósteramente	prepósteramente	O	osteramente	6	0	preposteramente
+prósperamente	prósperamente	O	osperamente	5	0	prosperamente
+pósteramente	pósteramente	O	osteramente	5	0	posteramente

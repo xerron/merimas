@@ -1,0 +1,3 @@
+húmilmente	húmilmente	O	umilmente	4	1	humilmente
+inútilmente	inútilmente	O	utilmente	5	1	inutilmente
+útilmente	útilmente	O	utilmente	4	1	utilmente

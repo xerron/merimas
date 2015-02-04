@@ -1,0 +1,2 @@
+distribuid	distribuir	VMP	distribuid	3	0	distribuid
+instituid	instituir	VMP	instituid	3	1	instituid

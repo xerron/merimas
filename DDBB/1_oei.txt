@@ -1,0 +1,13 @@
+archidiócesis	archidiócesis	O	ocesis	5	1	archidiocesis
+arquidiócesis	arquidiócesis	O	ocesis	5	1	arquidiocesis
+audioprótesis	audioprótesis	O	otesis	5	1	audioprotesis
+bioprótesis	bioprótesis	O	otesis	4	0	bioprotesis
+diócesi	diócesi	O	ocesi	3	0	diocesi
+diócesis	diócesi	P	ocesis	3	0	diocesis
+diócesis	diócesis	O	ocesis	3	0	diocesis
+hipótesi	hipótesi	O	otesi	4	0	hipotesi
+hipótesis	hipótesi	P	otesis	4	0	hipotesis
+hipótesis	hipótesis	O	otesis	4	0	hipotesis
+próstesis	próstesis	O	ostesis	3	0	prostesis
+prótesis	prótesis	O	otesis	3	0	protesis
+póney	póney	O	onei	2	0	poney

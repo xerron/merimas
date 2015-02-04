@@ -1,0 +1,7 @@
+rehuiste	rehuir	VIX2	ehuiste	2	0	rehuiste
+acequie	acequiar	VSP1	equie	3	1	acequie
+acequies	acequiar	VSP2	equies	3	1	acequies
+acequien	acequiar	VSP6	equien	3	1	acequien
+obsequie	obsequiar	VSP1	equie	3	1	obsequie
+obsequies	obsequiar	VSP2	equies	3	1	obsequies
+obsequien	obsequiar	VSP6	equien	3	1	obsequien

@@ -1,0 +1,4 @@
+cáusticamente	cáusticamente	O	austicamente	5	0	causticamente
+jerárquicamente	jerárquicamente	O	arquicamente	6	0	jerarquicamente
+lánguidamente	lánguidamente	O	anguidamente	5	0	languidamente
+monárquicamente	monárquicamente	O	arquicamente	6	0	monarquicamente

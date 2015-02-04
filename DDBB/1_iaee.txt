@@ -1,0 +1,7 @@
+baldíamente	baldíamente	O	iamente	5	0	baldiamente
+desproveídamente	desproveídamente	O	idamente	7	0	desproveidamente
+enatíamente	enatíamente	O	iamente	6	1	enatiamente
+fríamente	fríamente	O	iamente	4	0	friamente
+impíamente	impíamente	O	iamente	5	1	impiamente
+píamente	píamente	O	iamente	4	0	piamente
+tardíamente	tardíamente	O	iamente	5	0	tardiamente

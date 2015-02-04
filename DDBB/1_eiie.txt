@@ -1,0 +1,2 @@
+déficites	déficit	P	eficites	4	0	deficites
+éxplicites	éxplicit	P	explicites	4	1	explicites

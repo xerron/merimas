@@ -1,0 +1,2 @@
+desobstruid	desobstruir	VMP	desobstruid	3	0	desobstruid
+reconstruid	reconstruir	VMP	reconstruid	3	0	reconstruid

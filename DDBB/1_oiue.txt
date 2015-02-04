@@ -1,0 +1,12 @@
+armóniumes	armónium	P	oniumes	4	1	armoniumes
+auditóriumes	auditórium	P	oriumes	5	1	auditoriumes
+coihue	coihue	O	oihue	1	0	coihue
+coihues	coihue	P	oihues	1	0	coihues
+copihue	copihue	O	opihue	2	0	copihue
+copihues	copihue	P	opihues	2	0	copihues
+ónique	ónique	O	onique	3	1	onique
+óniques	ónique	P	oniques	3	1	oniques
+pandemóniumes	pandemónium	P	oniumes	5	0	pandemoniumes
+pódiumes	pódium	P	odiumes	3	0	podiumes
+sardónique	sardónique	O	onique	4	0	sardonique
+sardóniques	sardónique	P	oniques	4	0	sardoniques

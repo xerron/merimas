@@ -1,0 +1,5 @@
+maquilihue	maquilihue	O	ilihue	3	0	maquilihue
+maquilihues	maquilihue	P	ilihues	3	0	maquilihues
+mínimumes	mínimum	P	inimumes	4	0	minimumes
+quinchihue	quinchihue	O	inchihue	2	0	quinchihue
+quinchihues	quinchihue	P	inchihues	2	0	quinchihues

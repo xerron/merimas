@@ -1,0 +1,4 @@
+ibo	ifos
+iglo	inos
+into	ismos
+iso	iños

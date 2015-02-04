@@ -1,0 +1,6 @@
+aristoloquia	aristoloquia	O	oquia	5	1	aristoloquia
+aristoloquias	aristoloquia	P	oquias	5	1	aristoloquias
+parroquia	parroquia	O	oquia	3	0	parroquia
+parroquias	parroquia	P	oquias	3	0	parroquias
+ventriloquia	ventriloquia	O	oquia	4	0	ventriloquia
+ventriloquias	ventriloquia	P	oquias	4	0	ventriloquias

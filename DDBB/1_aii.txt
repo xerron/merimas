@@ -1,0 +1,10 @@
+análisis	análisis	O	alisis	4	1	analisis
+catálisis	catálisis	O	alisis	4	0	catalisis
+criptoanálisis	criptoanálisis	O	alisis	6	0	criptoanalisis
+diáfisis	diáfisis	O	afisis	3	0	diafisis
+diálisis	diálisis	O	alisis	3	0	dialisis
+hemodiálisis	hemodiálisis	O	alisis	5	1	hemodialisis
+másticis	másticis	O	asticis	3	0	masticis
+parálisis	parálisis	O	alisis	4	0	paralisis
+psicoanálisis	psicoanálisis	O	alisis	7	0	psicoanalisis
+sicoanálisis	sicoanálisis	O	alisis	6	0	sicoanalisis

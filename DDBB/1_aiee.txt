@@ -1,0 +1,6 @@
+áligeres	áliger	P	aligeres	4	1	aligeres
+frágilmente	frágilmente	O	agilmente	4	0	fragilmente
+fácilmente	fácilmente	O	acilmente	4	0	facilmente
+hábilmente	hábilmente	O	abilmente	4	1	habilmente
+káiseres	káiser	P	aiseres	3	0	kaiseres
+tráileres	tráiler	P	aileres	3	0	traileres

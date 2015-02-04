@@ -1,0 +1,3 @@
+braquio	braquiar	VIP1	aquio	2	0	braquio
+desahucio	desahuciar	VIP1	ahucio	3	0	desahucio
+fasquio	fasquiar	VIP1	asquio	2	0	fasquio

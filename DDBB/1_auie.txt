@@ -1,0 +1,8 @@
+alguien	alguien	O	alguien	2	1	alguien
+ayacahuite	ayacahuite	O	ahuite	4	1	ayacahuite
+ayacahuites	ayacahuite	P	ahuites	4	1	ayacahuites
+cahuines	cahuín	P	ahuines	2	0	cahuines
+chahuiscle	chahuiscle	O	ahuiscle	2	0	chahuiscle
+chahuiscles	chahuiscle	P	ahuiscles	2	0	chahuiscles
+gánguiles	gánguil	P	anguiles	3	0	ganguiles
+yáquiles	yáquil	P	aquiles	3	0	yaquiles

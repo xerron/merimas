@@ -1,0 +1,9 @@
+atauque	ataucar	VSP1	auque	3	1	atauque
+atauques	ataucar	VSP2	auques	3	1	atauques
+atauquen	ataucar	VSP6	auquen	3	1	atauquen
+embauque	embaucar	VSP1	auque	3	1	embauque
+embauques	embaucar	VSP2	auques	3	1	embauques
+embauquen	embaucar	VSP6	auquen	3	1	embauquen
+tauque	taucar	VSP1	auque	2	0	tauque
+tauques	taucar	VSP2	auques	2	0	tauques
+tauquen	taucar	VSP6	auquen	2	0	tauquen

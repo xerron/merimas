@@ -1,0 +1,9 @@
+braquias	braquiar	VIP2	aquias	2	0	braquias
+braquia	braquiar	VIP3	aquia	2	0	braquia
+braquian	braquiar	VIP6	aquian	2	0	braquian
+desahucias	desahuciar	VIP2	ahucias	3	0	desahucias
+desahucia	desahuciar	VIP3	ahucia	3	0	desahucia
+desahucian	desahuciar	VIP6	ahucian	3	0	desahucian
+fasquias	fasquiar	VIP2	asquias	2	0	fasquias
+fasquia	fasquiar	VIP3	asquia	2	0	fasquia
+fasquian	fasquiar	VIP6	asquian	2	0	fasquian

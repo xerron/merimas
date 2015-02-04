@@ -1,0 +1,3 @@
+ergüa	erguir	VSP1	ergüa	2	1	ergüa
+ergüas	erguir	VSP2	ergüas	2	1	ergüas
+ergüan	erguir	VSP6	ergüan	2	1	ergüan

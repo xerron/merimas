@@ -1,0 +1,4 @@
+éuscaro	éuscaro	O	euscaro	3	1	euscaro
+éuscaros	éuscaro	P	euscaros	3	1	euscaros
+sécuano	sécuano	O	ecuano	3	0	secuano
+sécuanos	sécuano	P	ecuanos	3	0	secuanos

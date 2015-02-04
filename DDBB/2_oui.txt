@@ -1,0 +1,5 @@
+concluid	concluir	VMP	concluid	2	0	concluid
+confluid	confluir	VMP	confluid	2	0	confluid
+construid	construir	VMP	construid	2	0	construid
+obstruid	obstruir	VMP	obstruid	2	1	obstruid
+ocluid	ocluir	VMP	ocluid	2	1	ocluid

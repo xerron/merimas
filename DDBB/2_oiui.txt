@@ -1,0 +1,3 @@
+constituid	constituir	VMP	constituid	3	0	constituid
+contribuid	contribuir	VMP	contribuid	3	0	contribuid
+prostituid	prostituir	VMP	prostituid	3	0	prostituid

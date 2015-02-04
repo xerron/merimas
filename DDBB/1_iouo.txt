@@ -1,0 +1,12 @@
+altílocuo	altílocuo	O	ilocuo	4	1	altilocuo
+altílocuos	altílocuo	P	ilocuos	4	1	altilocuos
+grandílocuo	grandílocuo	O	ilocuo	4	0	grandilocuo
+grandílocuos	grandílocuo	P	ilocuos	4	0	grandilocuos
+magnílocuo	magnílocuo	O	ilocuo	4	0	magnilocuo
+magnílocuos	magnílocuo	P	ilocuos	4	0	magnilocuos
+somnílocuo	somnílocuo	O	ilocuo	4	0	somnilocuo
+somnílocuos	somnílocuo	P	ilocuos	4	0	somnilocuos
+vanílocuo	vanílocuo	O	ilocuo	4	0	vanilocuo
+vanílocuos	vanílocuo	P	ilocuos	4	0	vanilocuos
+ventrílocuo	ventrílocuo	O	ilocuo	4	0	ventrilocuo
+ventrílocuos	ventrílocuo	P	ilocuos	4	0	ventrilocuos

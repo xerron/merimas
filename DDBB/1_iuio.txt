@@ -1,0 +1,17 @@
+carisquio	carisquio	O	isquio	3	0	carisquio
+carisquios	carisquio	P	isquios	3	0	carisquios
+deliquio	deliquio	O	iquio	3	0	deliquio
+deliquios	deliquio	P	iquios	3	0	deliquios
+hemistiquio	hemistiquio	O	iquio	4	1	hemistiquio
+hemistiquios	hemistiquio	P	iquios	4	1	hemistiquios
+ilíquido	ilíquido	O	iquido	4	1	iliquido
+ilíquidos	ilíquido	P	iquidos	4	1	iliquidos
+isquion	isquion	O	isquion	2	1	isquion
+líquido	líquido	O	iquido	3	0	liquido
+líquidos	líquido	P	iquidos	3	0	liquidos
+pirriquio	pirriquio	O	iquio	3	0	pirriquio
+pirriquios	pirriquio	P	iquios	3	0	pirriquios
+psíquico	psíquico	O	iquico	4	0	psiquico
+psíquicos	psíquico	P	iquicos	4	0	psiquicos
+síquico	síquico	O	iquico	3	0	siquico
+síquicos	síquico	P	iquicos	3	0	siquicos

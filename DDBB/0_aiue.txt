@@ -1,0 +1,15 @@
+arraigue	arraigar	VSP1	aigue	3	1	arraigue
+arraigues	arraigar	VSP2	aigues	3	1	arraigues
+arraiguen	arraigar	VSP6	aiguen	3	1	arraiguen
+derraigue	derraigar	VSP1	aigue	3	0	derraigue
+derraigues	derraigar	VSP2	aigues	3	0	derraigues
+derraiguen	derraigar	VSP6	aiguen	3	0	derraiguen
+desarraigue	desarraigar	VSP1	aigue	4	0	desarraigue
+desarraigues	desarraigar	VSP2	aigues	4	0	desarraigues
+desarraiguen	desarraigar	VSP6	aiguen	4	0	desarraiguen
+desraigue	desraigar	VSP1	aigue	3	0	desraigue
+desraigues	desraigar	VSP2	aigues	3	0	desraigues
+desraiguen	desraigar	VSP6	aiguen	3	0	desraiguen
+raigue	raigar	VSP1	aigue	2	0	raigue
+raigues	raigar	VSP2	aigues	2	0	raigues
+raiguen	raigar	VSP6	aiguen	2	0	raiguen

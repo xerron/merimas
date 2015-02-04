@@ -1,0 +1,10 @@
+ácueo	ácueo	O	acueo	3	1	acueo
+ácueos	ácueo	P	acueos	3	1	acueos
+áureo	áureo	O	aureo	3	1	aureo
+áureos	áureo	P	aureos	3	1	aureos
+cuáquero	cuáquero	O	aquero	3	0	cuaquero
+cuáqueros	cuáquero	P	aqueros	3	0	cuaqueros
+láureo	láureo	O	aureo	3	0	laureo
+láureos	láureo	P	aureos	3	0	laureos
+terráqueo	terráqueo	O	aqueo	4	0	terraqueo
+terráqueos	terráqueo	P	aqueos	4	0	terraqueos

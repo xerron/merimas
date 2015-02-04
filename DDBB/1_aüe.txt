@@ -1,0 +1,10 @@
+argüe	argüe	O	argüe	2	1	argüe
+argües	argüe	P	argües	2	1	argües
+camagüe	camagüe	O	agüe	3	0	camagüe
+camagües	camagüe	P	agües	3	0	camagües
+desagüe	desagüe	O	agüe	3	0	desagüe
+desagües	desagüe	P	agües	3	0	desagües
+enjagüe	enjagüe	O	agüe	3	1	enjagüe
+enjagües	enjagüe	P	agües	3	1	enjagües
+exangüe	exangüe	O	angüe	3	1	exangüe
+exangües	exangüe	P	angües	3	1	exangües

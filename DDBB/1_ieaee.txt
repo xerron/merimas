@@ -1,0 +1,9 @@
+extrínsecamente	extrínsecamente	O	insecamente	6	1	extrinsecamente
+fructíferamente	fructíferamente	O	iferamente	6	0	fructiferamente
+intrínsecamente	intrínsecamente	O	insecamente	6	1	intrinsecamente
+íntegramente	íntegramente	O	integramente	5	1	integramente
+líberamente	líberamente	O	iberamente	5	0	liberamente
+míseramente	míseramente	O	iseramente	5	0	miseramente
+pestíferamente	pestíferamente	O	iferamente	6	0	pestiferamente
+sacrílegamente	sacrílegamente	O	ilegamente	6	0	sacrilegamente
+salutíferamente	salutíferamente	O	iferamente	7	0	salutiferamente

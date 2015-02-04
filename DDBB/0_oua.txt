@@ -1,0 +1,3 @@
+confua	confuir	VSP1	onfua	2	0	confua
+confuas	confuir	VSP2	onfuas	2	0	confuas
+confuan	confuir	VSP6	onfuan	2	0	confuan

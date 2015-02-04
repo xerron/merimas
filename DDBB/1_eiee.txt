@@ -1,0 +1,5 @@
+débilmente	débilmente	O	ebilmente	4	0	debilmente
+espécimenes	espécimen	P	ecimenes	5	1	especimenes
+géiseres	géiser	P	eiseres	3	0	geiseres
+imbécilmente	imbécilmente	O	ecilmente	5	1	imbecilmente
+régimenes	régimen	P	egimenes	4	0	regimenes

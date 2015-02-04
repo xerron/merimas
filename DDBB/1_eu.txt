@@ -1,0 +1,16 @@
+ecu	ecu	O	ecu	2	1	ecu
+ecus	ecu	P	ecus	2	1	ecus
+fémur	fémur	O	emur	2	0	femur
+lémur	lémur	O	emur	2	0	lemur
+negus	negus	O	egus	2	0	negus
+referéndum	referéndum	O	endum	4	0	referendum
+tedéum	tedéum	O	eum	2	0	tedeum
+temu	temu	O	emu	2	0	temu
+temus	temu	P	emus	2	0	temus
+teruteru	teruteru	O	eru	4	0	teruteru
+teruterus	teruteru	P	erus	4	0	teruterus
+vademécum	vademécum	O	ecum	4	0	vademecum
+venimécum	venimécum	O	ecum	4	0	venimecum
+venus	venus	O	enus	2	0	venus
+volavérunt	volavérunt	O	erunt	4	0	volaverunt
+voyeur	voyeur	O	eur	2	0	voyeur

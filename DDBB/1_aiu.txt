@@ -1,0 +1,3 @@
+cámbium	cámbium	O	ambium	2	0	cambium
+máximum	máximum	O	aximum	3	0	maximum
+solárium	solárium	O	arium	3	0	solarium

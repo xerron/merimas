@@ -1,0 +1,8 @@
+fluios	fluir	VMPE	os	1	0	fluios
+fruios	fruir	VMPE	os	1	0	fruios
+fuios	fuir	VMPE	os	1	0	fuios
+gruios	gruir	VMPE	os	1	0	gruios
+huios	huir	VMPE	os	1	1	huios
+ios	ir	VMPE	os	1	1	ios
+luios	luir	VMPE	os	1	0	luios
+muios	muir	VMPE	os	1	0	muios

@@ -1,0 +1,15 @@
+alengüe	alenguar	VSP1	engüe	3	1	alengüe
+alengües	alenguar	VSP2	engües	3	1	alengües
+alengüen	alenguar	VSP6	engüen	3	1	alengüen
+amengüe	amenguar	VSP1	engüe	3	1	amengüe
+amengües	amenguar	VSP2	engües	3	1	amengües
+amengüen	amenguar	VSP6	engüen	3	1	amengüen
+deslengüe	deslenguar	VSP1	engüe	3	0	deslengüe
+deslengües	deslenguar	VSP2	engües	3	0	deslengües
+deslengüen	deslenguar	VSP6	engüen	3	0	deslengüen
+desmengüe	desmenguar	VSP1	engüe	3	0	desmengüe
+desmengües	desmenguar	VSP2	engües	3	0	desmengües
+desmengüen	desmenguar	VSP6	engüen	3	0	desmengüen
+mengüe	menguar	VSP1	engüe	2	0	mengüe
+mengües	menguar	VSP2	engües	2	0	mengües
+mengüen	menguar	VSP6	engüen	2	0	mengüen

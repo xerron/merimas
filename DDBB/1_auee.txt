@@ -1,0 +1,3 @@
+básquetes	básquet	P	asquetes	3	0	basquetes
+máuseres	máuser	P	auseres	3	0	mauseres
+tuáutemes	tuáutem	P	autemes	3	0	tuautemes

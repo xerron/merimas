@@ -1,0 +1,10 @@
+espontáneamente	espontáneamente	O	aneamente	7	1	espontaneamente
+extemporáneamente	extemporáneamente	O	aneamente	8	1	extemporaneamente
+instantáneamente	instantáneamente	O	aneamente	7	1	instantaneamente
+momentáneamente	momentáneamente	O	aneamente	7	0	momentaneamente
+presentáneamente	presentáneamente	O	aneamente	7	0	presentaneamente
+simultáneamente	simultáneamente	O	aneamente	7	0	simultaneamente
+subitáneamente	subitáneamente	O	aneamente	7	0	subitaneamente
+subterráneamente	subterráneamente	O	aneamente	7	0	subterraneamente
+súbitáneamente	súbitáneamente	O	aneamente	7	0	subitaneamente
+súbitáneamentes	súbitáneamente	P	aneamentes	7	0	subitaneamentes

@@ -1,0 +1,3 @@
+jügue	jugar	VSP1	ügue	2	0	jügue
+jügues	jugar	VSP2	ügues	2	0	jügues
+jüguen	jugar	VSP6	üguen	2	0	jüguen

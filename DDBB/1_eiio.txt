@@ -1,0 +1,4 @@
+gnéisico	gnéisico	O	eisico	4	0	gneisico
+gnéisicos	gnéisico	P	eisicos	4	0	gneisicos
+néisico	néisico	O	eisico	3	0	neisico
+néisicos	néisico	P	eisicos	3	0	neisicos

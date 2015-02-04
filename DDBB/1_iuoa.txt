@@ -1,0 +1,2 @@
+alícuota	alícuota	O	icuota	4	1	alicuota
+alícuotas	alícuota	P	icuotas	4	1	alicuotas

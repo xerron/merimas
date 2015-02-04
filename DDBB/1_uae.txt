@@ -1,0 +1,12 @@
+adúcares	adúcar	P	ucares	4	1	aducares
+aldúcares	aldúcar	P	ucares	4	1	alducares
+azúcares	azúcar	P	ucares	4	1	azucares
+azúmbares	azúmbar	P	umbares	4	1	azumbares
+búcare	búcare	O	ucare	3	0	bucare
+búcares	búcare	P	ucares	3	0	bucares
+cúmplase	cúmplase	O	umplase	3	0	cumplase
+cúmplases	cúmplase	P	umplases	3	0	cumplases
+fúcares	fúcar	P	ucares	3	0	fucares
+húsares	húsar	P	usares	3	1	husares
+nenúfares	nenúfar	P	ufares	4	0	nenufares
+púlsares	púlsar	P	ulsares	3	0	pulsares

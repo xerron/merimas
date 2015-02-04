@@ -1,0 +1,3 @@
+rehuimos	rehuir	VIP4	ehuimos	2	0	rehuimos
+acequio	acequiar	VIP1	equio	3	1	acequio
+obsequio	obsequiar	VIP1	equio	3	1	obsequio

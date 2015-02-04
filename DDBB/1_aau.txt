@@ -1,0 +1,4 @@
+alalau	alalau	O	alau	3	1	alalau
+alalaus	alalau	P	alaus	3	1	alalaus
+carau	carau	O	arau	2	0	carau
+caraus	carau	P	araus	2	0	caraus

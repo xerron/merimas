@@ -1,0 +1,6 @@
+epífisis	epífisis	O	ifisis	4	1	epifisis
+íncipit	íncipit	O	incipit	3	1	incipit
+sífilis	sífilis	O	ifilis	3	0	sifilis
+sínfisis	sínfisis	O	infisis	3	0	sinfisis
+trípili	trípili	O	ipili	3	0	tripili
+trípilis	trípili	P	ipilis	3	0	tripilis

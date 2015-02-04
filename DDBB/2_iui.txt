@@ -1,0 +1,6 @@
+difluid	difluir	VMP	difluid	2	0	difluid
+incluid	incluir	VMP	incluid	2	1	incluid
+influid	influir	VMP	influid	2	1	influid
+instruid	instruir	VMP	instruid	2	1	instruid
+irruid	irruir	VMP	irruid	2	1	irruid
+tribuid	tribuir	VMP	tribuid	2	0	tribuid

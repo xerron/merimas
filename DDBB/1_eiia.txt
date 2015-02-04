@@ -1,0 +1,4 @@
+gnéisicas	gnéisica	FP	eisicas	4	0	gneisicas
+gnéisica	gnéisico	F	eisica	4	0	gneisica
+néisicas	néisica	FP	eisicas	3	0	neisicas
+néisica	néisico	F	eisica	3	0	neisica

@@ -1,0 +1,17 @@
+asequi	asequi	O	equi	3	1	asequi
+asequis	asequi	P	equis	3	1	asequis
+azeuxis	azeuxis	O	euxis	3	1	azeuxis
+chubesqui	chubesqui	O	esqui	3	0	chubesqui
+chubesquis	chubesqui	P	esquis	3	0	chubesquis
+enfiteusis	enfiteusis	O	eusis	4	1	enfiteusis
+equis	equis	O	equis	2	1	equis
+legui	legui	O	egui	2	0	legui
+leguis	legui	P	eguis	2	0	leguis
+pesquis	pesquis	O	esquis	2	0	pesquis
+derruir	derruir	O	derruir	2	0	derruir
+destruir	destruir	O	destruir	2	0	destruir
+efluir	efluir	O	efluir	2	1	efluir
+excluir	excluir	O	excluir	2	1	excluir
+recluir	recluir	O	recluir	2	0	recluir
+refluir	refluir	O	refluir	2	0	refluir
+rehuir	rehuir	O	ehuir	1	0	rehuir

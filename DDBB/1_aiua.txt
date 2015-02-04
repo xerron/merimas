@@ -1,0 +1,4 @@
+caigua	caigua	O	aigua	2	0	caigua
+caiguas	caigua	P	aiguas	2	0	caiguas
+cañihua	cañihua	O	añihua	2	0	canihua
+cañihuas	cañihua	P	añihuas	2	0	canihuas

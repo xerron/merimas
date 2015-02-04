@@ -1,0 +1,4 @@
+corroida	corroer	VPF	oida	3	0	corroida
+corroidas	corroer	VPFP	oidas	3	0	corroidas
+roida	roer	VPF	oida	2	0	roida
+roidas	roer	VPFP	oidas	2	0	roidas

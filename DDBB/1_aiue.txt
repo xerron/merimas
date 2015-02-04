@@ -1,0 +1,11 @@
+caique	caique	O	aique	2	0	caique
+caiques	caique	P	aiques	2	0	caiques
+cámbiumes	cámbium	P	ambiumes	3	0	cambiumes
+faique	faique	O	aique	2	0	faique
+faiques	faique	P	aiques	2	0	faiques
+jaique	jaique	O	aique	2	0	jaique
+jaiques	jaique	P	aiques	2	0	jaiques
+mástique	mástique	O	astique	3	0	mastique
+mástiques	mástique	P	astiques	3	0	mastiques
+máximumes	máximum	P	aximumes	4	0	maximumes
+soláriumes	solárium	P	ariumes	4	0	solariumes

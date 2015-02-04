@@ -1,0 +1,6 @@
+antítesis	antítesis	O	itesis	4	1	antitesis
+fotosíntesis	fotosíntesis	O	intesis	5	0	fotosintesis
+ínterin	ínterin	O	interin	3	1	interin
+mímesis	mímesis	O	imesis	3	0	mimesis
+parasíntesis	parasíntesis	O	intesis	5	0	parasintesis
+síntesis	síntesis	O	intesis	3	0	sintesis

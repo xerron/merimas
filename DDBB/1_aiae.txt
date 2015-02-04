@@ -1,0 +1,2 @@
+cárdiganes	cárdigan	P	ardiganes	4	0	cardiganes
+hábitates	hábitat	P	abitates	4	1	habitates

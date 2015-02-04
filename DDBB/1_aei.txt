@@ -1,0 +1,2 @@
+diátesis	diátesis	O	atesis	3	0	diatesis
+metátesis	metátesis	O	atesis	4	0	metatesis

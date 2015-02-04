@@ -1,0 +1,4 @@
+difícilmente	difícilmente	O	icilmente	5	0	dificilmente
+inverosímilmente	inverosímilmente	O	imilmente	7	1	inverosimilmente
+verisímilmente	verisímilmente	O	imilmente	6	0	verisimilmente
+verosímilmente	verosímilmente	O	imilmente	6	0	verosimilmente

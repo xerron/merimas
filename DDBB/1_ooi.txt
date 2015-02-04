@@ -1,0 +1,12 @@
+acrópolis	acrópolis	O	opolis	4	1	acropolis
+apódosis	apódosis	O	odosis	4	1	apodosis
+córcholis	córcholis	O	orcholis	3	0	corcholis
+endósmosis	endósmosis	O	osmosis	4	1	endosmosis
+exósmosis	exósmosis	O	osmosis	4	1	exosmosis
+megalópolis	megalópolis	O	opolis	5	0	megalopolis
+metrópoli	metrópoli	O	opoli	4	0	metropoli
+metrópolis	metrópoli	P	opolis	4	0	metropolis
+metrópolis	metrópolis	O	opolis	4	0	metropolis
+necrópolis	necrópolis	O	opolis	4	0	necropolis
+ósmosis	ósmosis	O	osmosis	3	1	osmosis
+recórcholis	recórcholis	O	orcholis	4	0	recorcholis

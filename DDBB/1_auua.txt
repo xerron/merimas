@@ -1,0 +1,2 @@
+cláusula	cláusula	O	ausula	3	0	clausula
+cláusulas	cláusula	P	ausulas	3	0	clausulas

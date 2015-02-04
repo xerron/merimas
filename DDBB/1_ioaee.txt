@@ -1,0 +1,6 @@
+equívocamente	equívocamente	O	ibocamente	6	1	equivocamente
+frívolamente	frívolamente	O	ibolamente	5	0	frivolamente
+inequívocamente	inequívocamente	O	ibocamente	7	1	inequivocamente
+omnímodamente	omnímodamente	O	imodamente	6	1	omnimodamente
+recíprocamente	recíprocamente	O	iprocamente	6	0	reciprocamente
+unívocamente	unívocamente	O	ibocamente	6	1	univocamente

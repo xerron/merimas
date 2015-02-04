@@ -1,0 +1,16 @@
+autofocus	autofocus	O	ocus	4	1	autofocus
+bou	bou	O	ou	1	0	bou
+bous	bou	P	ous	1	0	bous
+brócul	brócul	O	ocul	2	0	brocul
+corpus	corpus	O	orpus	2	0	corpus
+cónsul	cónsul	O	onsul	2	0	consul
+factótum	factótum	O	otum	3	0	factotum
+glamour	glamour	O	our	2	0	glamour
+gonchu	gonchu	O	onchu	2	0	gonchu
+gonchus	gonchu	P	onchus	2	0	gonchus
+opus	opus	O	opus	2	1	opus
+procónsul	procónsul	O	onsul	3	0	proconsul
+quórum	quórum	O	orum	2	0	quorum
+sanctasanctórum	sanctasanctórum	O	orum	7	0	sanctasanctorum
+sanctórum	sanctórum	O	orum	4	0	sanctorum
+vicecónsul	vicecónsul	O	onsul	4	0	viceconsul

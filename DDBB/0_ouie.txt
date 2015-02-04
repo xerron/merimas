@@ -1,0 +1,9 @@
+aparroquie	aparroquiar	VSP1	oquie	4	1	aparroquie
+aparroquies	aparroquiar	VSP2	oquies	4	1	aparroquies
+aparroquien	aparroquiar	VSP6	oquien	4	1	aparroquien
+desaparroquie	desaparroquiar	VSP1	oquie	5	0	desaparroquie
+desaparroquies	desaparroquiar	VSP2	oquies	5	0	desaparroquies
+desaparroquien	desaparroquiar	VSP6	oquien	5	0	desaparroquien
+soliloquie	soliloquiar	VSP1	oquie	4	0	soliloquie
+soliloquies	soliloquiar	VSP2	oquies	4	0	soliloquies
+soliloquien	soliloquiar	VSP6	oquien	4	0	soliloquien

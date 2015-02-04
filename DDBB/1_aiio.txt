@@ -1,0 +1,2 @@
+daimio	daimio	O	aimio	2	0	daimio
+daimios	daimio	P	aimios	2	0	daimios

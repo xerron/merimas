@@ -1,0 +1,3 @@
+bróquiles	bróquil	P	oquiles	3	0	broquiles
+cóguiles	cóguil	P	oguiles	3	0	coguiles
+póquiles	póquil	P	oquiles	3	0	poquiles

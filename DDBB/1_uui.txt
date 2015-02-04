@@ -1,0 +1,4 @@
+cusqui	cusqui	O	usqui	2	0	cusqui
+cusquis	cusqui	P	usquis	2	0	cusquis
+unguis	unguis	O	unguis	2	1	unguis
+zutuhil	zutuhil	O	zutuhil	2	0	zutuhil

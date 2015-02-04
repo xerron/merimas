@@ -1,0 +1,2 @@
+desobstruir	desobstruir	O	desobstruir	3	0	desobstruir
+reconstruir	reconstruir	O	reconstruir	3	0	reconstruir

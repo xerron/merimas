@@ -1,0 +1,14 @@
+antiálcali	antiálcali	O	alcali	4	1	antialcali
+antiálcalis	antiálcali	P	alcalis	4	1	antialcalis
+apocatástasis	apocatástasis	O	astasis	6	1	apocatastasis
+álcali	álcali	O	alcali	3	1	alcali
+álcalis	álcali	P	alcalis	3	1	alcalis
+áscari	áscari	O	ascari	3	1	ascari
+áscaris	áscari	P	ascaris	3	1	ascaris
+bácaris	bácaris	O	acaris	3	0	bacaris
+catástasis	catástasis	O	astasis	4	0	catastasis
+cálanis	cálanis	O	alanis	3	0	calanis
+huacátay	huacátay	O	atai	3	1	huacatay
+metástasis	metástasis	O	astasis	4	0	metastasis
+paráfrasis	paráfrasis	O	afrasis	4	0	parafrasis
+valais	valais	O	alais	2	0	valais

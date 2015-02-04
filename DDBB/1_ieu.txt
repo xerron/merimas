@@ -1,0 +1,4 @@
+ímpetu	ímpetu	O	impetu	3	1	impetu
+ímpetus	ímpetu	P	impetus	3	1	impetus
+mildeu	mildeu	O	ildeu	2	0	mildeu
+mildeus	mildeu	P	ildeus	2	0	mildeus

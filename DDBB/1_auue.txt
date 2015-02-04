@@ -1,0 +1,2 @@
+cauque	cauque	O	auque	2	0	cauque
+cauques	cauque	P	auques	2	0	cauques

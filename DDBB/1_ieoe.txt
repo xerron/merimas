@@ -1,0 +1,4 @@
+asíndetones	asíndeton	P	indetones	5	1	asindetones
+confíteores	confíteor	P	iteores	5	0	confiteores
+íleones	íleon	P	ileones	4	1	ileones
+polisíndetones	polisíndeton	P	indetones	6	0	polisindetones

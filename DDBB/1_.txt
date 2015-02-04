@@ -1,0 +1,61 @@
+angströmes	angström	P		4	1	angströmes
+b	b	O	b	1	0	b
+brandyes	brandy	P		3	0	brandyes
+c	c	O	c	1	0	c
+ch	ch	O	ch	1	0	ch
+christmas	christmas	O		4	0	christmas
+compto	compto	O		3	0	compto
+comptos	compto	P		3	0	comptos
+eclampsia	eclampsia	O		4	1	eclampsia
+eclampsias	eclampsia	P		4	1	eclampsias
+excerpta	excerpta	O		4	1	excerpta
+excerptas	excerpta	P		4	1	excerptas
+f	f	O	f	1	0	f
+fitoplancton	fitoplancton	O		5	0	fitoplancton
+g	g	O	g	1	0	g
+h	h	O	h	1	0	h
+henryes	henry	P		3	1	henryes
+hertces	hertz	P		3	1	hertces
+hippyes	hippy	P		3	0	hippyes
+hobbyes	hobby	P		3	1	hobbyes
+impromptu	impromptu	O		4	1	impromptu
+impromptus	impromptu	P		4	1	impromptus
+istmo	istmo	O		3	1	istmo
+istmos	istmo	P		3	1	istmos
+j	j	O	j	1	0	j
+k	k	O	k	1	0	k
+karstes	karst	P		3	0	karstes
+kirsches	kirsch	P		3	0	kirsches
+kitsches	kitsch	P		3	0	kitsches
+l	l	O	l	1	0	l
+lambda	lambda	O		3	0	lambda
+lambdas	lambda	P		3	0	lambdas
+ll	ll	O	ll	1	0	ll
+lobbyes	lobby	P		3	0	lobbyes
+m	m	O	m	1	0	m
+ñ	ñ	O	ñ	1	0	n
+p	p	O	p	1	0	p
+pantyes	panty	P		3	0	pantyes
+pchs	pchs	O	pchs	1	0	pchs
+plancton	plancton	O		3	0	plancton
+q	q	O	q	1	0	q
+r	r	O	r	1	0	r
+roentgen	roentgen	O		4	0	roentgen
+rugbyes	rugby	P		3	0	rugbyes
+s	s	O	s	1	0	s
+sancta	sancta	O		3	0	sancta
+sanctas	sancta	P		3	0	sanctas
+sanctus	sanctus	O		3	0	sanctus
+t	t	O	t	1	0	t
+v	v	O	b	1	0	v
+versta	versta	O		3	0	versta
+verstas	versta	P		3	0	verstas
+volsco	volsco	O		3	0	volsco
+volscas	volsca	FP		3	0	volscas
+volsca	volsco	F		3	0	volsca
+volscos	volsco	P		3	0	volscos
+w	w	O	w	1	0	w
+whiskyes	whisky	P		3	0	whiskyes
+x	x	O	x	1	0	x
+z	z	O	z	1	0	z
+zooplancton	zooplancton	O		5	0	zooplancton

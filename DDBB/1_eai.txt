@@ -1,0 +1,8 @@
+éctasis	éctasis	O	ectasis	3	1	ectasis
+énfasis	énfasis	O	enfasis	3	1	enfasis
+éntasis	éntasis	O	entasis	3	1	entasis
+éxtasi	éxtasi	O	extasi	3	1	extasi
+éxtasis	éxtasi	P	extasis	3	1	extasis
+éxtasis	éxtasis	O	extasis	3	1	extasis
+pécari	pécari	O	ecari	3	0	pecari
+pécaris	pécari	P	ecaris	3	0	pecaris

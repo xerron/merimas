@@ -1,0 +1,14 @@
+ilíquidas	ilíquida	FP	iquidas	4	1	iliquidas
+ilíquida	ilíquido	F	iquida	4	1	iliquida
+líquidas	líquida	FP	iquidas	3	0	liquidas
+líquida	líquido	F	iquida	3	0	liquida
+metapsíquica	metapsíquica	O	iquica	5	0	metapsiquica
+metapsíquicas	metapsíquica	P	iquicas	5	0	metapsiquicas
+paroniquia	paroniquia	O	iquia	4	0	paroniquia
+paroniquias	paroniquia	P	iquias	4	0	paroniquias
+psíquicas	psíquica	FP	iquicas	4	0	psiquicas
+psíquica	psíquico	F	iquica	4	0	psiquica
+reliquia	reliquia	O	iquia	3	0	reliquia
+reliquias	reliquia	P	iquias	3	0	reliquias
+síquicas	síquica	FP	iquicas	3	0	siquicas
+síquica	síquico	F	iquica	3	0	siquica

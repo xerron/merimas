@@ -1,0 +1,4 @@
+crúores	crúor	P	uores	3	0	cruores
+flúores	flúor	P	uores	3	0	fluores
+fútboles	fútbol	P	utboles	3	0	futboles
+mújoles	mújol	P	ujoles	3	0	mujoles

@@ -1,0 +1,3 @@
+cómodamente	cómodamente	O	omodamente	5	0	comodamente
+incómodamente	incómodamente	O	omodamente	6	1	incomodamente
+monótonamente	monótonamente	O	otonamente	6	0	monotonamente

@@ -1,0 +1,6 @@
+chínguere	chínguere	O	inguere	3	0	chinguere
+chíngueres	chínguere	P	ingueres	3	0	chingueres
+cuproníqueles	cuproníquel	P	iqueles	5	0	cuproniqueles
+níqueles	níquel	P	iqueles	3	0	niqueles
+rodrígueces	rodríguez	P	igueces	4	0	rodrigueces
+traganíqueles	traganíquel	P	iqueles	5	0	traganiqueles

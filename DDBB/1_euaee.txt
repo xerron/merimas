@@ -1,0 +1,3 @@
+crédulamente	crédulamente	O	edulamente	5	0	credulamente
+incrédulamente	incrédulamente	O	edulamente	6	1	incredulamente
+trémulamente	trémulamente	O	emulamente	5	0	tremulamente

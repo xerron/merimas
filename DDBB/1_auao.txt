@@ -1,0 +1,4 @@
+láudano	láudano	O	audano	3	0	laudano
+láudanos	láudano	P	audanos	3	0	laudanos
+náufrago	náufrago	O	aufrago	3	0	naufrago
+náufragos	náufrago	P	aufragos	3	0	naufragos

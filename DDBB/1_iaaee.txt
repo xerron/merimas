@@ -1,0 +1,4 @@
+opíparamente	opíparamente	O	iparamente	6	1	opiparamente
+pícaramente	pícaramente	O	icaramente	5	0	picaramente
+simoníacamente	simoníacamente	O	iacamente	7	0	simoniacamente
+simoníacamentes	simoníacamente	P	iacamentes	7	0	simoniacamentes

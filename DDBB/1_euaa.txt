@@ -1,0 +1,4 @@
+éuscaras	éuscara	FP	euscaras	3	1	euscaras
+éuscara	éuscaro	F	euscara	3	1	euscara
+sécuanas	sécuana	FP	ecuanas	3	0	secuanas
+sécuana	sécuano	F	ecuana	3	0	secuana

@@ -1,0 +1,7 @@
+derruid	derruir	VMP	derruid	2	0	derruid
+destruid	destruir	VMP	destruid	2	0	destruid
+efluid	efluir	VMP	efluid	2	1	efluid
+excluid	excluir	VMP	excluid	2	1	excluid
+recluid	recluir	VMP	recluid	2	0	recluid
+refluid	refluir	VMP	refluid	2	0	refluid
+rehuid	rehuir	VMP	ehuid	1	0	rehuid

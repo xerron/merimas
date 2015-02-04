@@ -1,0 +1,3 @@
+albéitares	albéitar	P	eitares	4	1	albeitares
+alféizares	alféizar	P	eizares	4	1	alfeizares
+protoalbéitares	protoalbéitar	P	eitares	6	0	protoalbeitares

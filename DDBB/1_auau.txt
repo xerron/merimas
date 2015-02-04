@@ -1,0 +1,6 @@
+caucau	caucau	O	aucau	2	0	caucau
+caucaus	caucau	P	aucaus	2	0	caucaus
+cauchau	cauchau	O	auchau	2	0	cauchau
+cauchaus	cauchau	P	auchaus	2	0	cauchaus
+llaullau	llaullau	O	aullau	2	0	llaullau
+llaullaus	llaullau	P	aullaus	2	0	llaullaus

@@ -1,0 +1,4 @@
+gárboli	gárboli	O	arboli	3	0	garboli
+gárbolis	gárboli	P	arbolis	3	0	garbolis
+pároli	pároli	O	aroli	3	0	paroli
+párolis	pároli	P	arolis	3	0	parolis

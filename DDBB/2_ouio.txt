@@ -1,0 +1,8 @@
+concluios	concluir	VMPE	oncluios	2	0	concluios
+confluios	confluir	VMPE	onfluios	2	0	confluios
+confuios	confuir	VMPE	onfuios	2	0	confuios
+construios	construir	VMPE	onstruios	2	0	construios
+desobstruios	desobstruir	VMPE	obstruios	3	0	desobstruios
+obstruios	obstruir	VMPE	obstruios	2	1	obstruios
+ocluios	ocluir	VMPE	ocluios	2	1	ocluios
+reconstruios	reconstruir	VMPE	onstruios	3	0	reconstruios

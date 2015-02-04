@@ -1,0 +1,3 @@
+fluid	fluir	VMP	fluid	1	0	fluid
+fruid	fruir	VMP	fruid	1	0	fruid
+gruid	gruir	VMP	gruid	1	0	gruid

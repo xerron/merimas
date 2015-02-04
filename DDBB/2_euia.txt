@@ -1,0 +1,4 @@
+rehuidla	rehuir	VMFSE	ehuidla	2	0	rehuidla
+rehuidlas	rehuir	VMFPE	ehuidlas	2	0	rehuidlas
+rehuida	rehuir	VPF	ehuida	2	0	rehuida
+rehuidas	rehuir	VPFP	ehuidas	2	0	rehuidas

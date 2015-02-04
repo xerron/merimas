@@ -1,0 +1,12 @@
+altílocuas	altílocua	FP	ilocuas	4	1	altilocuas
+altílocua	altílocuo	F	ilocua	4	1	altilocua
+grandílocuas	grandílocua	FP	ilocuas	4	0	grandilocuas
+grandílocua	grandílocuo	F	ilocua	4	0	grandilocua
+magnílocuas	magnílocua	FP	ilocuas	4	0	magnilocuas
+magnílocua	magnílocuo	F	ilocua	4	0	magnilocua
+somnílocuas	somnílocua	FP	ilocuas	4	0	somnilocuas
+somnílocua	somnílocuo	F	ilocua	4	0	somnilocua
+vanílocuas	vanílocua	FP	ilocuas	4	0	vanilocuas
+vanílocua	vanílocuo	F	ilocua	4	0	vanilocua
+ventrílocuas	ventrílocua	FP	ilocuas	4	0	ventrilocuas
+ventrílocua	ventrílocuo	F	ilocua	4	0	ventrilocua

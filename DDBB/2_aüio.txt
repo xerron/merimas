@@ -1,0 +1,3 @@
+argüios	argüir	VMPE	argüios	2	1	argüios
+reargüios	reargüir	VMPE	argüios	3	0	reargüios
+redargüios	redargüir	VMPE	argüios	3	0	redargüios

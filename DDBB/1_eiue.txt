@@ -1,0 +1,3 @@
+deiure	deiure	O	eiure	2	0	deiure
+deiures	deiure	P	eiures	2	0	deiures
+médiumes	médium	P	ediumes	3	0	mediumes

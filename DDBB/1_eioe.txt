@@ -1,0 +1,3 @@
+béisboles	béisbol	P	eisboles	3	0	beisboles
+épsilones	épsilon	P	epsilones	4	1	epsilones
+séniores	sénior	P	eniores	3	0	seniores

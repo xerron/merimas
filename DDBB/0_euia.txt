@@ -1,0 +1,9 @@
+acequias	acequiar	VIP2	equias	3	1	acequias
+acequia	acequiar	VIP3	equia	3	1	acequia
+acequian	acequiar	VIP6	equian	3	1	acequian
+esquias	esquiar	VIP2	esquias	2	1	esquias
+esquia	esquiar	VIP3	esquia	2	1	esquia
+esquian	esquiar	VIP6	esquian	2	1	esquian
+obsequias	obsequiar	VIP2	equias	3	1	obsequias
+obsequia	obsequiar	VIP3	equia	3	1	obsequia
+obsequian	obsequiar	VIP6	equian	3	1	obsequian

@@ -1,0 +1,3 @@
+constituir	constituir	O	constituir	3	0	constituir
+contribuir	contribuir	O	contribuir	3	0	contribuir
+prostituir	prostituir	O	prostituir	3	0	prostituir
