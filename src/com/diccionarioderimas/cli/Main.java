@@ -13,8 +13,10 @@ import org.apache.commons.cli.Options;
 import org.apache.commons.cli.ParseException;
 
 public class Main {
-	static final String VERSION = "1.0";
-	static String appPath = System.getProperty("user.dir") + File.separator;
+	static final String VERSION = "1.1";
+//	static String appPath = System.getProperty("user.dir") + File.separator;
+//	static String appPath = new java.io.File(".").getAbsolutePath()+ File.separator;
+
 	public static final int CONSONANT = 0;
 	public static final int ASONANCE = 1;
 	public static final int VOH = 1;
@@ -35,6 +37,10 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		/**
+		 * Executable path
+		 */
+		String appPath = Utils.getApplicationPath();
 		/**
 		 * Defaults
 		 */
@@ -127,7 +133,7 @@ public class Main {
 				// comprobar si existe la base de datos
 				if (!new File(appPath + "DDBB").exists()) {
 					System.err
-							.println("No se encuentra la carpeta BBDD, porfavor genera el diccionario.");
+							.println("No se encuentra la carpeta BBDD, porfavor genera el diccionario en: \n"+appPath);
 					System.exit(0);
 				}
 				// hacer la busqueda en el diccionario
