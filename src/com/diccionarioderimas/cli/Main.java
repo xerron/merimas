@@ -122,9 +122,16 @@ public class Main {
 					case "v":
 						beggining = ASONANCE;
 						break;
+					case "indiferente":
+						beggining = INDIFERENT;
+						break;
+					case "i":
+						beggining = INDIFERENT;
+						break;
+
 					default:
 						System.err
-								.println("El valor del algumento -s debe ser: consonate(c) o vocal(v).");
+								.println("El valor del algumento -s debe ser: consonate(c) , vocal(v) o indiferente(i).");
 						System.exit(0);
 						break;
 					}
@@ -145,19 +152,19 @@ public class Main {
 				// Beggining,"/home/xerron/Documentos/Diccionarios/MERimas/");
 				System.out.println("▼ Sustantivos y Adjetivos " + "("
 						+ search.getSus().length + ")");
-				for (int i = 1; i < search.getSus().length; i++) {
+				for (int i = 0; i < search.getSus().length; i++) {
 					System.out.println("    " + search.getSus()[i].getWord());
 				}
 				System.out.println("▼ Verbos " + "(" + search.getVerbs().length
 						+ ")");
-				for (int i = 1; i < search.getVerbs().length; i++) {
+				for (int i = 0; i < search.getVerbs().length; i++) {
 					System.out.println("    " + search.getVerbs()[i].getWord()
 							+ " <" + search.getVerbs()[i].getOriginalWord()
 							+ ">");
 				}
 				System.out.println("▼ Participios y formas enclípticas " + "("
 						+ search.getRest().length + ")");
-				for (int i = 1; i < search.getRest().length; i++) {
+				for (int i = 0; i < search.getRest().length; i++) {
 					System.out.println("    " + search.getRest()[i].getWord());
 				}
 
