@@ -166,7 +166,7 @@ public class SearchResult {
 						res.append("plural ");
 						break;
 					case 'E':
-						res.append("(forma encl�tica) ");
+						res.append("(forma enclítica) ");
 						break;
 
 					default:
