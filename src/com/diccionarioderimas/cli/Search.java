@@ -50,7 +50,7 @@ public class Search {
 		if (preferences.isLiEquivalence())
 			rhyme = rhyme.replace("ll", "li");
 		if (preferences.isNiEquivalence())
-			rhyme = rhyme.replace("�i", "ni");
+			rhyme = rhyme.replace("ñi", "ni");
 		if (preferences.isYEquivalence())
 			rhyme = rhyme.replace("y", "ll");
 		if (preferences.isZEquivalence())
@@ -82,10 +82,10 @@ public class Search {
 					}
 					if (!hasRhyme && preferences.isNiEquivalence()) {
 						hasRhyme = fs.fits(finder.getRhyme()
-								.replace("�i", "ni"));
+								.replace("ñi", "ni"));
 						if (!hasRhyme)
 							hasRhyme = fs.fits(finder.getRhyme().replace("ni",
-									"�i"));
+									"ñi"));
 					}
 					if (!hasRhyme && preferences.isYEquivalence()) {
 						hasRhyme = fs
@@ -119,7 +119,7 @@ public class Search {
 								if (preferences.isLiEquivalence())
 									newRhyme = newRhyme.replace("ll", "li");
 								if (preferences.isNiEquivalence())
-									newRhyme = newRhyme.replace("�i", "ni");
+									newRhyme = newRhyme.replace("ñi", "ni");
 								if (preferences.isYEquivalence())
 									newRhyme = newRhyme.replace("y", "ll");
 								if (preferences.isZEquivalence())

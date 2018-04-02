@@ -51,7 +51,7 @@ public class RhymeFinder {
 		if(chars[0]=='h' && chars.length>1){
 			if((chars[1]!='i' && chars[1]!='u') 
 					|| (chars[1]!='i' && chars[1]!='a' && chars[1]!='e'
-						&& chars[1]!='�' && chars[1]!='�' && chars[1]!='�'))
+						&& chars[1]!='í' && chars[1]!='á' && chars[1]!='é'))
 				return true;
 			else 
 				return false;
@@ -118,7 +118,7 @@ public class RhymeFinder {
 				boolean skip = false;
 				if (i == chars.length - 1 && oldTypes[i] == CONSONANT && oldTypes[i - 1] == CONSONANT)
 					skip = true;
-				if (chars[i] == 's' && chars[i - 1] == 'n' && i + 1 < chars.length && oldTypes[i + 1] == CONSONANT)//transformaci�n
+				if (chars[i] == 's' && chars[i - 1] == 'n' && i + 1 < chars.length && oldTypes[i + 1] == CONSONANT)//transformación
 					skip = true;
 
 				if (chars[i] == 's' && chars[i - 1] == 'b' && i + 1 < chars.length && oldTypes[i + 1] == CONSONANT)// abstraigo
@@ -224,7 +224,7 @@ public class RhymeFinder {
 							}
 
 						}
-						if (accentLoc == -1)// theres not har vowels, give to
+						if (accentLoc == -1)// there's not hard vowels, give to
 						// last soft vowel
 						{
 							for (int j = endSil - 1; j >= begSil; j--) {
@@ -248,19 +248,19 @@ public class RhymeFinder {
 			// normalize rhyme
 			for (int i = accentLoc; i < chars.length; i++) {
 
-				if (chars[i] == '�') {
+				if (chars[i] == 'á') {
 					rhymeB.append('a');
 					asonanceB.append('a');
-				} else if (chars[i] == '�') {
+				} else if (chars[i] == 'é') {
 					rhymeB.append('e');
 					asonanceB.append('e');
-				} else if (chars[i] == '�') {
+				} else if (chars[i] == 'í') {
 					rhymeB.append('i');
 					asonanceB.append('i');
-				} else if (chars[i] == '�') {
+				} else if (chars[i] == 'ó') {
 					rhymeB.append('o');
 					asonanceB.append('o');
-				} else if (chars[i] == '�') {
+				} else if (chars[i] == 'ú') {
 					rhymeB.append('u');
 					asonanceB.append('u');
 				} else if (chars[i] == 'v'){
@@ -286,10 +286,6 @@ public class RhymeFinder {
 			if(accentLoc>=oldSil[i])
 				accentedSil=i;
 		}
-//		System.out.println(accentLoc);
-//		printBySilables(chars, oldSil, countSilables);
-//		System.out.println(accentedSil);
-//		
 
 	}
 	
@@ -302,21 +298,21 @@ public class RhymeFinder {
 	}
 
 	public static boolean isAnAccent(char c) {
-		if (c == '�' || c == '�' || c == '�' || c == '�' || c == '�')
+		if (c == 'á' || c == 'é' || c == 'í' || c == 'ó' || c == 'ú')
 			return true;
 		return false;
 	}
 
 	public static boolean isVowel(char c) {
-		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == '�' || c == '�' || c == '�' || c == '�'
-				|| c == '�' || c == '�')
+		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'á' || c == 'é' || c == 'í' || c == 'ó'
+				|| c == 'ú' || c == '�')
 			return true;
 		return false;
 	}
 	
 	public static boolean isVowelOrH(char c) {
-		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == '�' || c == '�' || c == '�' || c == '�'
-				|| c == '�' || c == '�' || c=='h')
+		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'á' || c == 'é' || c == 'í' || c == 'ó'
+				|| c == 'ú' || c == '�' || c=='h')
 			return true;
 		return false;
 	}
@@ -374,19 +370,19 @@ public class RhymeFinder {
 		
 		for (int i = 0; i < chars.length; i++) {
 
-			if (chars[i] == '�') {
+			if (chars[i] == 'á') {
 				chars[i]='a';
-			} else if (chars[i] == '�') {
+			} else if (chars[i] == 'é') {
 				chars[i]='e';
-			} else if (chars[i] == '�') {
+			} else if (chars[i] == 'í') {
 				chars[i]='i';
-			} else if (chars[i] == '�') {
+			} else if (chars[i] == 'ó') {
 				chars[i]='o';
-			} else if (chars[i] == '�') {
+			} else if (chars[i] == 'ú') {
 				chars[i]='u';
 			} else if (chars[i] == '�') {
 				chars[i]='�';
-			} else if (chars[i] == '�') {
+			} else if (chars[i] == 'ñ') {
 				chars[i]='n';
 			} 
 
@@ -395,7 +391,7 @@ public class RhymeFinder {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(new RhymeFinder("astr�logo").countSil());
+		System.out.println(new RhymeFinder("astrólogo").countSil());
 	}
 
 }
